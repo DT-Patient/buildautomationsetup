@@ -1,5 +1,5 @@
 plugins {
-    id("org.danilopianini.git-sensitive-semantic-versioning") version "0.2.3"
+    id("org.danilopianini.git-sensitive-semantic-versioning")
 }
 
 group = "io.github.enrignagna"
