@@ -10,6 +10,8 @@ gitSemVer {
 
 repositories {
     jcenter()
+    mavenCentral()
+    mavenLocal()
 }
 
 
