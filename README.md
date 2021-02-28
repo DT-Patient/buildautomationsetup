@@ -33,53 +33,53 @@
 - [Licence](#licence)
 
 # How to get started
-Complete thi section.
+Complete this section.
 
 ## Dependencies
-Complete thi section.
+Complete this section.
 
 ## Come and install
-Complete thi section.
+Complete this section.
 
 
 ## Documentation
-Complete thi section.
+Complete this section.
 
 ### Link to external documentation
-Complete thi section.
+Complete this section.
 
 
 # How to contribute
-Complete thi section.
+Complete this section.
 ## Directory structure / branch
-Complete thi section.
+Complete this section.
 
 
 ## Community
-Complete thi section.
+Complete this section.
 
 
 ### Code of Conduct
-Complete thi section.
+Complete this section.
 
 
 ### Responsible disclosure
-Complete thi section.
+Complete this section.
 
 ### Bug reports and requests for help
-Complete thi section.
+Complete this section.
 
 # Maintenance
-Complete thi section.
+Complete this section.
 
 # License
-Complete thi section.
+Complete this section.
 
 ## General license
-Complete thi section.
+Complete this section.
 
 ## Authors and Copyright
-Complete thi section.
+Complete this section.
 
 ## Software licenses of third party components
-Complete thi section.
+Complete this section.
