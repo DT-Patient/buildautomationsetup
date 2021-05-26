@@ -1,85 +1,31 @@
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/enrignagna/buildautomationsetup)
 ![GitHub](https://img.shields.io/github/license/enrignagna/buildautomationsetup)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/enrignagna/buildautomationsetup)
 ![GitHub top language](https://img.shields.io/github/languages/top/enrignagna/buildautomationsetup)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/enrignagna/buildautomationsetup)
-[![GitHub issues](https://img.shields.io/github/issues/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/issues)
+![GitHub issues](https://img.shields.io/github/issues/enrignagna/buildautomationsetup)
 
 
-# Build Automation Setup
+# Build Automation Setup 
 
 <!---Sottotitolo / Slogan / Descrizione breve-->
-> Project setup for other repository.
->Include useful plugin and setting for all Gradle's projects.\
-> \
-> TODO LIST:
-> 1. Rename the project in `settings.gradle.kts`
-> 1. Change the project information in `build.gradle.kts`
-> 1. Change name of repository in every badge
-> 1. Complete each field below in this README file.
-
-<!---*Read this in other languages: [English](README.EN.md).*-->
-
-## Images and GIF
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
-
-# Index
-
-- [How to start](#how-to-start)
-- [How to contribute](#how-to-contribute)
-- [Maintenance](#maintenance)
-- [Licence](#licence)
-
-# How to get started
-Complete this section.
-
-## Dependencies
-Complete this section.
-
-## Come and install
-Complete this section.
+> Template for course of Pervasive Computing and Software Systems Laboratory.
+> This template was born with the aim of creating a Gradle project with necessary plugins and dependencies included.
 
 
-## Documentation
-Complete this section.
+# How to start
+The use of the template foresees its extension in the creation of a new project on Github.
+These operations can be carried out simply through the wizard made available by Github.
 
-### Link to external documentation
-Complete this section.
+# Contributing
+Vedi il [Contributing File](./CONTRIBUTING.md).
 
-
-# How to contribute
-Complete this section.
-## Directory structure / branch
-Complete this section.
-
-
-## Community
-Complete this section.
-
-
-### Code of Conduct
-Complete this section.
-
-
-### Responsible disclosure
-Complete this section.
-
-### Bug reports and requests for help
-Complete this section.
-
-# Maintenance
-Complete this section.
-
-# License
-Complete this section.
-
-## General license
-Complete this section.
+# Licenza
+Vedi il [License File](./LICENSE).
 
 ## Authors and Copyright
-Complete this section.
+Authors:
+- [Battistini Ylenia](https://github.com/yleniaBattistini)
+- [Gnagnarella Enrico](https://github.com/enrignagna)
 
-## Software licenses of third party components
-Complete this section.
+Copyright (c) 2021.
