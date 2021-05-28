@@ -1,85 +1,47 @@
+#### Software Info
 
-![GitHub last commit](https://img.shields.io/github/last-commit/enrignagna/buildautomationsetup)
-![GitHub](https://img.shields.io/github/license/enrignagna/buildautomationsetup)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/enrignagna/buildautomationsetup)
-![GitHub top language](https://img.shields.io/github/languages/top/enrignagna/buildautomationsetup)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/enrignagna/buildautomationsetup)
-[![GitHub issues](https://img.shields.io/github/issues/italia/bootstrap-italia.svg)](https://github.com/italia/bootstrap-italia/issues)
+![GitHub last commit](https://img.shields.io/github/last-commit/DT-Patient/buildautomationsetup)
+![GitHub](https://img.shields.io/github/license/DT-Patient/buildautomationsetup)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/DT-Patient/buildautomationsetup)
+![GitHub language count](https://img.shields.io/github/languages/count/DT-Patient/buildautomationsetup)
+![GitHub top language](https://img.shields.io/github/languages/top/DT-Patient/buildautomationsetup)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/DT-Patient/buildautomationsetup)
+![GitHub issues](https://img.shields.io/github/issues/DT-Patient/buildautomationsetup)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/DT-Patient/buildautomationsetup)
+![GitHub repo size](https://img.shields.io/github/repo-size/DT-Patient/buildautomationsetup)
+![GitHub contributors](https://img.shields.io/github/contributors/DT-Patient/buildautomationsetup)
+![Release](https://img.shields.io/github/v/release/DT-Patient/buildautomationsetup?label=Release)
 
 
-# Build Automation Setup
+#### Software Progress
+![GitHub issues](https://img.shields.io/github/issues/DT-Patient/buildautomationsetup)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/DT-Patient/buildautomationsetup)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/DT-Patient/buildautomationsetup)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/DT-Patient/buildautomationsetup)
+![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/DT-Patient/buildautomationsetup/latest/develop)
+![GitHub last commit](https://img.shields.io/github/last-commit/DT-Patient/buildautomationsetup/develop)
+
+
+# Build Automation Setup 
 
 <!---Sottotitolo / Slogan / Descrizione breve-->
-> Project setup for other repository.
->Include useful plugin and setting for all Gradle's projects.\
-> \
-> TODO LIST:
-> 1. Rename the project in `settings.gradle.kts`
-> 1. Change the project information in `build.gradle.kts`
-> 1. Change name of repository in every badge
-> 1. Complete each field below in this README file.
-
-<!---*Read this in other languages: [English](README.EN.md).*-->
-
-## Images and GIF
-
-![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
-
-# Index
-
-- [How to start](#how-to-start)
-- [How to contribute](#how-to-contribute)
-- [Maintenance](#maintenance)
-- [Licence](#licence)
-
-# How to get started
-Complete thi section.
-
-## Dependencies
-Complete thi section.
-
-## Come and install
-Complete thi section.
+> Template for course of Pervasive Computing and Software Systems Laboratory.
+> This template was born with the aim of creating a Gradle project with necessary plugins and dependencies included.
 
 
-## Documentation
-Complete thi section.
+# How to start
+The use of the template foresees its extension in the creation of a new project on Github.
+These operations can be carried out simply through the wizard made available by Github.
 
-### Link to external documentation
-Complete thi section.
+# Contributing
+Vedi il [Contributing File](./CONTRIBUTING.md).
 
-
-# How to contribute
-Complete thi section.
-## Directory structure / branch
-Complete thi section.
-
-
-## Community
-Complete thi section.
-
-
-### Code of Conduct
-Complete thi section.
-
-
-### Responsible disclosure
-Complete thi section.
-
-### Bug reports and requests for help
-Complete thi section.
-
-# Maintenance
-Complete thi section.
-
-# License
-Complete thi section.
-
-## General license
-Complete thi section.
+# Licenza
+Vedi il [License File](./LICENSE).
 
 ## Authors and Copyright
-Complete thi section.
+Authors:
+- [Battistini Ylenia](https://github.com/yleniaBattistini)
+- [Gnagnarella Enrico](https://github.com/enrignagna)
 
-## Software licenses of third party components
-Complete thi section.
+Copyright (c) 2021.
