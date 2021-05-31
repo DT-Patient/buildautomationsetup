@@ -34,10 +34,10 @@ The use of the template foresees its extension in the creation of a new project 
 These operations can be carried out simply through the wizard made available by Github.
 
 # Contributing
-Vedi il [Contributing File](./CONTRIBUTING.md).
+See the [Contributing File](./CONTRIBUTING.md).
 
 # Licenza
-Vedi il [License File](./LICENSE).
+See the [License File](./LICENSE).
 
 ## Authors and Copyright
 Authors:
